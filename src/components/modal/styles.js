@@ -6,8 +6,10 @@ export const styles = StyleSheet.create({
     container: {
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: 60,
+        margin: 40,
         paddingVertical: 20,
+        backgroundColor:'#5b7c8d',
+        borderRadius: 15,
       },
       title: {
         fontSize: 16,
